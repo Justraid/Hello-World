@@ -1,2 +1,5 @@
 # Hello-World
-Açıklama yok
+
+Merhaba Arkadaşlar!
+
+Bir şeyler öğrenmek gerek.
